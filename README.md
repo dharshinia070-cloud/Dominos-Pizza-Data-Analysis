@@ -125,22 +125,6 @@ SQL was used to perform different types of business analysis, including:
 * Views
 * PERCENT_RANK()
 
----
-
-## 👥 Customer Segmentation
-
-Customers were segmented based on their purchasing behavior.
-
-### Customer Segments
-
-* **Dormant** – Bottom 25%
-* **Regular** – 25%–50%
-* **High Value** – 50%–75%
-* **Premium** – Top 25%
-
-This segmentation helps understand different customer groups based on their spending and ordering behavior.
-
----
 
 ## 📊 Power BI Dashboards
 
@@ -215,27 +199,6 @@ The project helps identify:
 * High-value and premium customers.
 * Order status distribution.
 * City and state-level sales performance.
-
----
-
-## 📁 Project Files
-
-```text
-Dominos-Pizza-Data-Analysis/
-│
-├── SQL/
-│   └── Domino's_Pizza_Analysis.sql
-│
-├── PowerBI/
-│   └── Domino's_Pizza_Dashboard.pbix
-│
-├── Screenshots/
-│   ├── Dashboard_1_Sales_Performance.png
-│   ├── Dashboard_2_Customer_Analysis.png
-│   └── Dashboard_3_Pizza_Analysis.png
-│
-└── README.md
-```
 
 ---
 
