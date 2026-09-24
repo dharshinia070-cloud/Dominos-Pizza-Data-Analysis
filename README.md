@@ -1,7 +1,10 @@
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/d1d8324f-2eed-4ad8-a310-7f098cdd6398" />
 
 
+
+
 # 🍕 Domino's Pizza Data Analysis
+
 
 ## 📌 Project Overview
 
